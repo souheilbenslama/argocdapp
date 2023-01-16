@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  argo-petsi-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-25T10:54:27.517564931+01:00"
+    description: A Helm chart for Kubernetes
+    digest: c2494e220fa009615df028b6be435d036ea49aba9ef7579a658d3e5ee6b2b994
+    name: argo-petsi-app
+    type: application
+    urls:
+    - https://github.com/souheilbenslama/argocdapp/blob/master/argo-petsi-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-25T10:54:27.515784399+01:00"
